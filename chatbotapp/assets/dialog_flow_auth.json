@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "banking-gunk",
+  "private_key_id": "44fc8b56cf37fcb9da8cce562dc67589c4a5fb9c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCO2UvijOnt8p5w\nyT3PmccMemxZoSJlpULkADLyv/s4G8a1lOJ7myV2Ohn30v0pF5icG9QOuniLMymZ\nmgyz32QdSJalCFDypKBVQ9DOJdnmK4YTAMI3kQIOyq7C15raX26PRAjPkeGZkLvW\n8A6Jb55Aypef2029Q2bhNst/F+ET0QTBZDvwkbEP1fjgsI5L69tnu6i+tBsgX/OG\nO8lsViv547iWsKEWSPZCFxpZErwSxoQfDMWmMVaiIOuy591SHKVB+D1Murmgr6XA\n63tVsBK0zTQiCwdryj7Jn2jjxEvITIEAlJG7crUfpmQk24S1PyOtcYMS0CxKY+Ok\nXfuzCK+fAgMBAAECggEAAVwci2b29NtT1Poxhm062CGTRfALMp70h3K86L1zLK/I\ncxzNUeS7m1Yy9M63Hou7wT635AaDLw5scZpVwbS2nVtt00Kr44gEsuttvOvevvXc\nUWToCi4TVkpONrU51xdpHEjlDhD0YycnYGQWmLL9Ns47q2sjqiYP9/swIws2RBG0\nDZaaCaYeWYeAQhneVyEJpthaDzfitNWMiUui8RlyocxF4ZS3luk7FX/8z/Vfw52Y\nx2wfbxsM0laxgTBGRp8iHoWSgU9NCmZMmK4qoPCsigAettn5s3IRCQR8Kt4JlHgi\nigHz7slp6fkkGD7MhMQzqehaJCcaiJPdOza1yBuwdQKBgQDCQBI60siTfeH4jWzv\nrRFknj+4CGICG1l8Y+ku3lZneyGiOscNMYkvzMVJ56iuIEG0Vg5H/TbiptVfb//i\nhsbRp6pvE4kJtHP1qqkgJenTsYXfDbdOmMa/58xyaMEULazukApXuZK5aGSVeGpE\nZGPTSBZOm4xtQTilUqT+sGxXJQKBgQC8QjdS4LgsiP/1Pkex2v9asQBlIWH/MghR\nKqRdxkVOF5BwvTLXkw8YtmMVCou3ZPv0v3GRvSPQgPzr6pa5QWrRJZqPXuzbtnXf\nGhj+bRoWeDk2vi06a/RocKbM/uCDGK+4dv/qfUPH+/jYxPeZ/lxSoBlrkXuupeBU\nJRI5Km5CcwKBgQC/FO/Z1YdhLy+epOBIVOMLK3BaxERE9kpsxouXgzdTzBgl0dQE\n8nmU/8YDEVMpFqoLj6u0vS3Ef4DdxPreBt6FVn2djoX7efun6h08do8xoyuhY4iy\nVC8OkCLZWJq2EshOVHsYGIBwynRHZJCEfoyERiFLalAVGVdzqXyM3Vd10QKBgAsK\nxzvxOlxCXOEBmirwcXHcV+2Wm6zgPmSkX6ewbXg7IZm7PzQtyADnEcC2MaO8JJsi\nb4Lg2Szto+gihlyvXZiO4BXwt2vbs+Y2HakutQ0EWDbByN1YX6mQkfgMKxcFZ6km\nMbSLTGJ6gQoV44AAz2F5SoRosBx6VkIZOoxn1LfJAoGBAIxAvBqPenzOjwMKjIxK\nJM86c3s2JYBsQ9DhaNzT68S8gdrefrqFhjyibKN5VY1AdtvpFS/si3N7JllijoJC\nUtlJvVGOtzHajRW6ePc2FdDe8OGk97gC3wpW101FUPa7jk5upATvRnhJclBeVbAX\nkXf+ALRRWtlbD/SoZ0cne/QM\n-----END PRIVATE KEY-----\n",
+  "client_email": "bankingchatbotapp@banking-gunk.iam.gserviceaccount.com",
+  "client_id": "102045585411429988633",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bankingchatbotapp%40banking-gunk.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

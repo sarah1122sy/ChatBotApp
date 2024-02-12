@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "geustbanking-lysn",
+  "private_key_id": "bc8c600303943d5b2e66d76acce6c642d361f1ca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDNgLPy3Mz8wcZT\n4YHRtclpm+N5/TXPQum7vr9iVPZfilXg6g5fUUJ+VWyr6WTMRjLFRf1L2VrXrhyQ\niJeHWV2LwyW6Ns8tp2T0Y8GyAA6Rdt8W6BDhzJSC+iaxlYDQR5IY973y0Tu8mmmf\nzDjn3Xp7LUohsA7T9zColH2JFJ+I/2y+P8Dle8BjdzrfO0bO0iVnE4uu2l43h2Lq\n/7IIdVQHvMLoQ+7xtd7MXNkjT8WPUFYlJ0+vHMEyMCtis8XrZMfVvPsrU1It8Osq\n6g+m1Jo53TJkIQ+9WQd+wCHHFKXSrQiJuLYqewz0xULk5Oa0/HAQq2QwSW94lcSX\n+XE91npHAgMBAAECggEAGsNTLCLTU2uM/6mTtZL+KxHROzbdxiNJu1ipJg44k9K5\nQnRY8NLtXPSVFYJszSmrPQPTbAhfi00yjSQsz8S0qRn+FNVEgAaX4DgJprvZKdqY\nTSxl3nI9OR2I4oG85+MaRMQm6bOUGwjlDpmTI6c1Z0tLpz19gN9lZ98Gxk54RGf7\njMx91TCA5W44k+S1xe4FJeEBkmQled7wZgl7cb+NX6aqdRVEC+afa3Ipd2b9Xema\ni1pD1eNfgLmcI1MLWxJI4eMSwZBxcV6itp0588aZN8jQ/NJPZ3k6k5z9oschFY07\nNd7eHVG6HhpYQAAM3G+TZQDEjDjAYpAm7r7G53tnoQKBgQD0muxC0YDF+BiwZaOF\n7LYQf2IeJ4BlTzPBTfHJXaktFBSMcFQK6q1q5hNmOQi+snes+aU8jhadBn3lB/t5\njFqofyDumohl2nuhYSpReOdc2e8XANp2aI6LJqTjWX4XcCHgaFCVV8fivaO6u3Al\nLZjrAXqxU+A+FZf+9DUQFNcmEQKBgQDXE3U/OEsPW3gJIwVkXLOzII6uXTfXyyFD\nV7Yhrdtisas1fHl4UEI2OsNRVbPpl2F6+vQL/F1pmqvcNQMF+LXXG3ZjHAyri1W7\nXk/RWHjNfC79vAT+t8hayRPMP1BvHFFdfK00hgoigw/x2de1928K5+Sd9JPEMtWn\nrbvfKGNi1wKBgQC98+lx4lxMYORbaDLa9/5TRXkezbJJ+n3Iqg0QQWn1ldh3T2wU\npjZSA6YhBj2iSdniPGRzaCxrePUffVlvBO4KV99tLBiscET+CATjDC8vzhZ8GK+O\nsJexvCrkW0UuUmgcayXZNDgH/xk9E/59ALH2Hkn3l5lW3VISLfdfK7AA4QKBgF4q\noM0bQpHoxHeLo9K7W9pzyMTC/641u8yWXKIGUuW1UHbMlwp8aWEA/X9g/LKrmvyT\nX8LXrbaNB+4UL8yvhj42QfFG2K1LBjBRLLVF/S5KzvA9IBq+MLS/ETH+DqN3TJCY\nA+XZQhq2M4b6kB2VxkKKIWifKwteDnmp8XXVYx5lAoGAc48W7HO7hTafcyODgDgt\nmoIedytbH9Ak0bjbeThtKxj8oo5tZcdxhVrB/MEaSwp3tTx5nqzak31MzaTSiogA\nnlwse93E8wu45a7CZRMytaxe2345r1uJuj7Fvbr11acvJnIvSCcuVZP51Masm6bx\nnN7r3o7hmz4ZaNxt5Q7SkOQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "guestbanking@geustbanking-lysn.iam.gserviceaccount.com",
+  "client_id": "102725148012324434113",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/guestbanking%40geustbanking-lysn.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
